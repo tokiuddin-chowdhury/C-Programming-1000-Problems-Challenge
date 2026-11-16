@@ -1,4 +1,4 @@
-# Omar Mohammad Taki Uddin Chowdhury
+# Omar Mohammad Toki Uddin Chowdhury
 **B.Sc. in Computer Science & Engineering (CSE) | Premier University, Chattogram**
 
 [![Facebook](https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/omarmohammadchowdhury)
@@ -16,12 +16,12 @@ My long-term academic and research interests lie in **Cybersecurity** and **AI A
 
 | Milestone | Target Problems | Solved | Status |
 | :--- | :---: | :---: | :--- |
-| **Phase 1: Foundations & Logic** | 100 | **85** | 🟡 In Progress (85% Done) |
-| **Phase 2: Loops, Patterns & Arrays** | 250 | 0 | ⚪ Upcoming |
-| **Phase 3: Strings, Functions & Recursion** | 250 | 0 | ⚪ Upcoming |
-| **Phase 4: Pointers, Structures & File I/O** | 150 | 0 | ⚪ Upcoming |
-| **Phase 5: Competitive Programming (Codeforces)** | 250 | 0 | ⚪ Upcoming |
-| **Total Challenge** | **1,000** | **85** | 🚀 **8.5% Completed** |
+| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **92** | 🟡 In Progress (61.3% Done) |
+| **Phase 2: Switch-Case, Loops & Patterns** | 250 | 0 | ⚪ Upcoming |
+| **Phase 3: Arrays, Strings & Matrix Operations** | 250 | 0 | ⚪ Upcoming |
+| **Phase 4: Functions, Recursion, Pointers & File I/O** | 150 | 0 | ⚪ Upcoming |
+| **Phase 5: Competitive Programming (Codeforces)** | 200 | 0 | ⚪ Upcoming |
+| **Total Challenge** | **1,000** | **92** | 🚀 **9.2% Completed** |
 
 ---
 
