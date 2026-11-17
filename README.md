@@ -2,6 +2,9 @@
 **B.Sc. in Computer Science & Engineering (CSE) | Premier University, Chattogram**
 
 [![Facebook](https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/omarmohammadchowdhury)
+![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Progress](https://img.shields.io/badge/Solved-110%20%2F%201000-2EA44F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20Daily-orange?style=for-the-badge)
 
 ---
 
@@ -16,12 +19,12 @@ My long-term academic and research interests lie in **Cybersecurity** and **AI A
 
 | Milestone | Target Problems | Solved | Status |
 | :--- | :---: | :---: | :--- |
-| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **100** | 🟡 In Progress (66.7% Done) |
+| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **110** | 🟡 In Progress (73.3% Done) |
 | **Phase 2: Switch-Case, Loops & Patterns** | 250 | 0 | ⚪ Upcoming |
 | **Phase 3: Arrays, Strings & Matrix Operations** | 250 | 0 | ⚪ Upcoming |
 | **Phase 4: Functions, Recursion, Pointers & File I/O** | 150 | 0 | ⚪ Upcoming |
 | **Phase 5: Competitive Programming (Codeforces)** | 200 | 0 | ⚪ Upcoming |
-| **Total Challenge** | **1,000** | **100** | 🚀 **10.0% Completed** |
+| **Total Challenge** | **1,000** | **110** | 🚀 **11.0% Completed** |
 
 ---
 
