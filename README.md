@@ -16,12 +16,12 @@ My long-term academic and research interests lie in **Cybersecurity** and **AI A
 
 | Milestone | Target Problems | Solved | Status |
 | :--- | :---: | :---: | :--- |
-| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **92** | 🟡 In Progress (61.3% Done) |
+| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **100** | 🟡 In Progress (66.7% Done) |
 | **Phase 2: Switch-Case, Loops & Patterns** | 250 | 0 | ⚪ Upcoming |
 | **Phase 3: Arrays, Strings & Matrix Operations** | 250 | 0 | ⚪ Upcoming |
 | **Phase 4: Functions, Recursion, Pointers & File I/O** | 150 | 0 | ⚪ Upcoming |
 | **Phase 5: Competitive Programming (Codeforces)** | 200 | 0 | ⚪ Upcoming |
-| **Total Challenge** | **1,000** | **92** | 🚀 **9.2% Completed** |
+| **Total Challenge** | **1,000** | **100** | 🚀 **10.0% Completed** |
 
 ---
 
