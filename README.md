@@ -1,11 +1,10 @@
 # Omar Mohammad Toki Uddin Chowdhury
 **B.Sc. in Computer Science & Engineering (CSE) | Premier University, Chattogram**
 
-[![Facebook](https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/omarmohammadchowdhury)
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Progress](https://img.shields.io/badge/Solved-110%20%2F%201000-2EA44F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20Daily-orange?style=for-the-badge)
-
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1F2937?style=for-the-badge&logo=facebook&logoColor=3B82F6&labelColor=0D1117)](https://fb.com/omarmohammadchowdhury)
+![Language](https://img.shields.io/badge/Language-C-1F2937?style=for-the-badge&logo=c&logoColor=38BDF8&labelColor=0D1117)
+![Progress](https://img.shields.io/badge/Solved-130%20%2F%201000-1F2937?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Active%20Daily-1F2937?style=for-the-badge&logo=githubactions&logoColor=F59E0B&labelColor=0D1117)
 ---
 
 ## 🎯 About This Repository
@@ -19,12 +18,12 @@ My long-term academic and research interests lie in **Cybersecurity** and **AI A
 
 | Milestone | Target Problems | Solved | Status |
 | :--- | :---: | :---: | :--- |
-| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **110** | 🟡 In Progress (73.3% Done) |
+| **Phase 1: Foundations & Logic (Basics & If-Else)** | 150 | **130** | 🟡 In Progress (86.7% Done) |
 | **Phase 2: Switch-Case, Loops & Patterns** | 250 | 0 | ⚪ Upcoming |
 | **Phase 3: Arrays, Strings & Matrix Operations** | 250 | 0 | ⚪ Upcoming |
 | **Phase 4: Functions, Recursion, Pointers & File I/O** | 150 | 0 | ⚪ Upcoming |
 | **Phase 5: Competitive Programming (Codeforces)** | 200 | 0 | ⚪ Upcoming |
-| **Total Challenge** | **1,000** | **110** | 🚀 **11.0% Completed** |
+| **Total Challenge** | **1,000** | **130** | 🚀 **13.0% Completed** |
 
 ---
 
@@ -42,3 +41,4 @@ C-Programming-1000-Problems-Challenge/
 ├── 07_Functions_and_Recursion/             # Modular programming & recursive problem solving
 ├── 08_Pointers_Structures_File_IO/         # Memory management, custom data types & file handling
 └── 09_Competitive_Programming_Codeforces/  # Online judge solutions & contest practice
+```
